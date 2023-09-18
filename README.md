@@ -3,10 +3,15 @@
 --- 
 
 - 🔭 I’m currently working on NodeJs/NestJs, Python  MySQL, Docker
+  <br>
 - 🌱 I’m currently learning System design architectures
+  <br>
 - 👯 I’m looking to collaborate on Nestjs projects
+  <br>
 - 💬 Ask me about Nodejs, Python 
+  <br>
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/boburjon-bob-kobilov-946a02165/)
+  <br>
 - I write tech post on Telegram channel [link](https://t.me/+bswjDxcYIPczZDk1)
 <!--
 **Bobur-kobilov/Bobur-kobilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
