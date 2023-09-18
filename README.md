@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Bobur 👋
 
+--- 
+
+- 🔭 I’m currently working on NodeJs/NestJs, Python  MySQL, Docker
+- 🌱 I’m currently learning System design architectures
+- 👯 I’m looking to collaborate on Nestjs projects
+- 💬 Ask me about Nodejs, Python 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/boburjon-bob-kobilov-946a02165/)
+- I write tech post on Telegram channel [link](https://t.me/+bswjDxcYIPczZDk1)
 <!--
 **Bobur-kobilov/Bobur-kobilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
